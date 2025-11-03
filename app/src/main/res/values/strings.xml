@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CalculadoraIMC</string>
+    <string name="calculadora_de_imc">Calculadora de IMC</string>
+    <string name="altura_value">Altura em metros</string>
+    <string name="peso_value">Peso em kg</string>
+    <string name="calcular_button">Calcular</string>
+    <string name="resultado_do_imc">Resultado</string>
+    <string name="altura_em_metros_ex_1_75">Altura em metros (Ex 1.75)</string>
+    <string name="peso_em_kg_ex_70_5">Peso em kg (Ex 70.5)</string>
+    <string name="grupo_100">Grupo 100</string>
+</resources>
